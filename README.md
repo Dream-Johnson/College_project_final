@@ -59,7 +59,7 @@ A comprehensive project demonstrating a complete **data analytics pipeline** —
 
 **Dream Johnson**  
 _M.Sc. Cyber Security, National Forensic Sciences University_  
-Dream Johnson (www.linkedin.com/in/dream-johnson-bb30a4210) *(Add your profile URL)*  
+Dream Johnson (www.linkedin.com/in/dream-johnson-bb30a4210) 
 Email: dreamjohnson16@gmail.com
 
 
