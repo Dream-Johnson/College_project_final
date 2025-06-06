@@ -48,11 +48,11 @@ A comprehensive project demonstrating a complete **data analytics pipeline** —
 ## 📁 Folder Structure
 
 📦End-to-End-Data-Processing
-┣ 📁data # Sample datasets (flight prices, transactions)
-┣ 📁notebooks # Jupyter notebooks for data cleaning & EDA
-┣ 📁powerbi # PBIX files and visuals
-┣ 📁sql # SQL scripts for Snowflake integration
-┗ 📄README.md
+  ┣ 📁data # Sample datasets (flight prices, transactions)
+  ┣ 📁notebooks # Jupyter notebooks for data cleaning & EDA
+  ┣ 📁powerbi # PBIX files and visuals
+  ┣ 📁sql # SQL scripts for Snowflake integration
+  ┗ 📄README.md
 
 
 ## 🧑‍💼 Author
